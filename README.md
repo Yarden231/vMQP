@@ -59,11 +59,11 @@ The dataset consists of wind direction measurements collected from 260 weather s
 If you use this code, please cite our article:
 
 ```
-@article{Yarden Cohen, Alexandre Khae Wu Navarro, Jes Frellsen, Richard E. Turner, Raziel Riemer, Ari Pakman,
+@inproceedings{cohen2025bayesian,
   title={Bayesian Circular Regression with von Mises Quasi-Processes},
-  author={Anonymous},
-  journal={AISTATS 2025},
-  year={2025}
+  author={Cohen, Yarden and Navarro, Alexandre Khae Wu and Frellsen, Jes and Turner, Richard E and Riemer, Raziel and Pakman, Ari},
+  booktitle={28th International Conference on Artificial Intelligence and Statistics (AISTATS)},
+  year={2025}
 }
 ```
 
