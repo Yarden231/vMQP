@@ -29,8 +29,7 @@ pip install -r requirements.txt
    git clone https://github.com/Yarden231/vMQP.git
    cd vMQP
    ```
-2. Load the dataset (`data_calm.csv`, containing wind direction measurements from the German Weather Service, DWD).
-3. Open and run the Jupyter Notebook:
+2. Open and run the Jupyter Notebook:
    ```sh
    jupyter notebook Wind_experiment.ipynb
    ```
